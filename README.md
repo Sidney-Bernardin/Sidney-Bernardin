@@ -1,4 +1,4 @@
-### Oh hello world, imSidney! 👋 ;
+### Oh hello world, im Sidney! 👋 ;
 
 📫 You can reach me at sidney.bernardin@gmail.com ;
 
