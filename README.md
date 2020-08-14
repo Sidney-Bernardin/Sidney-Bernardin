@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hello world, in Sidney! 👋 ;
+
+📫 You can reach me at sidney.bernardin@gmail.com ;
 
 <!--
 **Sidney-Bernardin/Sidney-Bernardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
