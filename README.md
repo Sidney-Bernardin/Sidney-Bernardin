@@ -1,5 +1,5 @@
 ### Oh hello world, im Sidney! 👋 ;
-🔨 Languages and tools: <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> | <img src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" /> ;
+🔨 Languages and tools: <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />  <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img width="32" height="32" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" /> ;
 
 📫 You can reach me at sidney.bernardin@gmail.com ;
 
