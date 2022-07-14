@@ -1,4 +1,4 @@
-### Oh hello world, im Sidney! 👋
+### Hello world, im Sidney! 👋
 
 I'm a Full-Stack developer, a continuous learner, and I enjoy exploring new technologies.
 
