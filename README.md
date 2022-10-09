@@ -1,7 +1,11 @@
 <h3 style="font-size:40px;">🧑‍💻 Sidney Bernardin</h3>
 
 <hr />
-### I'm a full-stack Software Developer!
+
+<p>
+  <strong>I'm a full-stack Software Developer!</strong>
+</p>
+
 <hr />
 
 <strong>📜 Lanuages:</strong>
